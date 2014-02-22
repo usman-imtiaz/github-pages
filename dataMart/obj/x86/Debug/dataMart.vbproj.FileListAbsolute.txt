@@ -1,0 +1,36 @@
+C:\Users\uzi\AppData\Local\Temporary Projects\dataMart\bin\Debug\dataMart.exe
+C:\Users\uzi\AppData\Local\Temporary Projects\dataMart\bin\Debug\dataMart.pdb
+C:\Users\uzi\AppData\Local\Temporary Projects\dataMart\bin\Debug\dataMart.xml
+C:\Users\uzi\AppData\Local\Temporary Projects\dataMart\obj\x86\Debug\dataMart.Form1.resources
+C:\Users\uzi\AppData\Local\Temporary Projects\dataMart\obj\x86\Debug\dataMart.Resources.resources
+C:\Users\uzi\AppData\Local\Temporary Projects\dataMart\obj\x86\Debug\dataMart.vbproj.GenerateResource.Cache
+C:\Users\uzi\AppData\Local\Temporary Projects\dataMart\obj\x86\Debug\dataMart.exe
+C:\Users\uzi\AppData\Local\Temporary Projects\dataMart\obj\x86\Debug\dataMart.xml
+C:\Users\uzi\AppData\Local\Temporary Projects\dataMart\obj\x86\Debug\dataMart.pdb
+C:\Users\uzi\Documents\Visual Studio 2010\Projects\windows forms\dataMart\dataMart\obj\x86\Debug\dataMart.exe
+C:\Users\uzi\Documents\Visual Studio 2010\Projects\windows forms\dataMart\dataMart\obj\x86\Debug\dataMart.xml
+C:\Users\uzi\Documents\Visual Studio 2010\Projects\windows forms\dataMart\dataMart\obj\x86\Debug\dataMart.pdb
+C:\Users\uzi\Documents\Visual Studio 2010\Projects\windows forms\dataMart\dataMart\bin\Debug\dataMart.exe
+C:\Users\uzi\Documents\Visual Studio 2010\Projects\windows forms\dataMart\dataMart\bin\Debug\dataMart.pdb
+C:\Users\uzi\Documents\Visual Studio 2010\Projects\windows forms\dataMart\dataMart\bin\Debug\dataMart.xml
+C:\Users\uzi\Documents\Visual Studio 2010\Projects\windows forms\dataMart\dataMart\obj\x86\Debug\dataMart.Resources.resources
+C:\Users\uzi\Documents\Visual Studio 2010\Projects\windows forms\dataMart\dataMart\obj\x86\Debug\dataMart.vbproj.GenerateResource.Cache
+C:\Users\uzi\Documents\Visual Studio 2010\Projects\windows forms\dataMart\dataMart\obj\x86\Debug\dataMart.main.resources
+C:\Users\PIZ\Documents\coursesW2013\cmpt399\lab\lab3\dataMart\dataMart\bin\Debug\dataMart.exe
+C:\Users\PIZ\Documents\coursesW2013\cmpt399\lab\lab3\dataMart\dataMart\bin\Debug\dataMart.pdb
+C:\Users\PIZ\Documents\coursesW2013\cmpt399\lab\lab3\dataMart\dataMart\bin\Debug\dataMart.xml
+C:\Users\PIZ\Documents\coursesW2013\cmpt399\lab\lab3\dataMart\dataMart\obj\x86\Debug\dataMart.Main.resources
+C:\Users\PIZ\Documents\coursesW2013\cmpt399\lab\lab3\dataMart\dataMart\obj\x86\Debug\dataMart.Resources.resources
+C:\Users\PIZ\Documents\coursesW2013\cmpt399\lab\lab3\dataMart\dataMart\obj\x86\Debug\dataMart.vbproj.GenerateResource.Cache
+C:\Users\PIZ\Documents\coursesW2013\cmpt399\lab\lab3\dataMart\dataMart\obj\x86\Debug\dataMart.exe
+C:\Users\PIZ\Documents\coursesW2013\cmpt399\lab\lab3\dataMart\dataMart\obj\x86\Debug\dataMart.xml
+C:\Users\PIZ\Documents\coursesW2013\cmpt399\lab\lab3\dataMart\dataMart\obj\x86\Debug\dataMart.pdb
+C:\Users\uzi\Desktop\school\cmpt-399\dataMartProject\dataMart\dataMart\obj\x86\Debug\dataMart.exe
+C:\Users\uzi\Desktop\school\cmpt-399\dataMartProject\dataMart\dataMart\obj\x86\Debug\dataMart.xml
+C:\Users\uzi\Desktop\school\cmpt-399\dataMartProject\dataMart\dataMart\obj\x86\Debug\dataMart.pdb
+C:\Users\uzi\Desktop\school\cmpt-399\dataMartProject\dataMart\dataMart\bin\Debug\dataMart.exe
+C:\Users\uzi\Desktop\school\cmpt-399\dataMartProject\dataMart\dataMart\bin\Debug\dataMart.pdb
+C:\Users\uzi\Desktop\school\cmpt-399\dataMartProject\dataMart\dataMart\bin\Debug\dataMart.xml
+C:\Users\uzi\Desktop\school\cmpt-399\dataMartProject\dataMart\dataMart\obj\x86\Debug\dataMart.Main.resources
+C:\Users\uzi\Desktop\school\cmpt-399\dataMartProject\dataMart\dataMart\obj\x86\Debug\dataMart.Resources.resources
+C:\Users\uzi\Desktop\school\cmpt-399\dataMartProject\dataMart\dataMart\obj\x86\Debug\dataMart.vbproj.GenerateResource.Cache
